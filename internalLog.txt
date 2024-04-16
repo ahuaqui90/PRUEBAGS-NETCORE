@@ -1,0 +1,18 @@
+2024-04-16 09:50:03.6967 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2024-04-16 09:50:03.7183 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2024-04-16 09:50:03.7363 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-16 09:50:03.7709 Info Validating config: TargetNames=alldata, ConfigItems=43, FilePath=D:\PRUEBAGS\PRUEBAGS\bin\Debug\net8.0\nlog.config
+2024-04-16 09:50:03.7789 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2024-04-16 09:50:03.7940 Info Configuration initialized.
+2024-04-16 09:51:11.2485 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2024-04-16 09:51:11.2779 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2024-04-16 09:51:11.2984 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-16 09:51:11.3327 Info Validating config: TargetNames=alldata, ConfigItems=43, FilePath=D:\PRUEBAGS\PRUEBAGS\bin\Debug\net8.0\nlog.config
+2024-04-16 09:51:11.3419 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2024-04-16 09:51:11.3549 Info Configuration initialized.
+2024-04-16 09:54:22.8778 Info Registered target NLog.Targets.FileTarget(Name=alldata)
+2024-04-16 09:54:22.9003 Info Registered target NLog.Targets.FileTarget(Name=otherFile-web)
+2024-04-16 09:54:22.9238 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-16 09:54:22.9594 Info Validating config: TargetNames=alldata, ConfigItems=43, FilePath=D:\PRUEBAGS\PRUEBAGS\bin\Debug\net8.0\nlog.config
+2024-04-16 09:54:22.9594 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2024-04-16 09:54:22.9840 Info Configuration initialized.
